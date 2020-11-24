@@ -1,6 +1,6 @@
 ## React News App
 
-Creating A Live News App Using React and [News API](https://newsapi.org/).
+Live News App Using React and [News API](https://newsapi.org/).
 
 # Getting Started with Create React App
 
