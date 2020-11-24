@@ -2,6 +2,13 @@
 
 Live News App Using React and [News API](https://newsapi.org/).
 
+To access the news API site, set environment variable
+
+- create a .env file at the root of your project
+- Add this line to .env file
+
+  REACT_APP_API_KEY = {your API key}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
